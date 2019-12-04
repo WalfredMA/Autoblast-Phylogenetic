@@ -1,0 +1,4001 @@
+"x"
+"1"
+"receptor tyrosine-protein kinase erbB-3 precursor [Mus musculus] >gi|77416857|sp|Q61526.2|ERBB3_MOUSE RecName: Full=Receptor tyrosine-protein kinase erbB-3; AltName: Full=Glial growth factor receptor; AltName: Full=Proto-oncogene-like protein c-ErbB-3; Flags: Precursor >gi|51101264|gb|AAT95433.1| glial growth factor receptor [Mus musculus] >gi|76780076|gb|AAI06092.1| V-erb-b2 erythroblastic leukemia viral oncogene homolog 3 (avian) [Mus musculus]
+
+"
+"2"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X1 [Rattus norvegicus] >gi|149029663|gb|EDL84834.1| v-erb-b2 erythroblastic leukemia viral oncogene homolog 3 (avian), isoform CRA_a [Rattus norvegicus]
+
+"
+"3"
+"receptor tyrosine-protein kinase erbB-3 precursor [Rattus norvegicus] >gi|21431758|sp|Q62799.3|ERBB3_RAT RecName: Full=Receptor tyrosine-protein kinase erbB-3; AltName: Full=Proto-oncogene-like protein c-ErbB-3; Flags: Precursor >gi|17352449|gb|AAC28498.2| ErbB3/Her3 precursor [Rattus norvegicus]
+
+"
+"4"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X2 [Rattus norvegicus]
+
+"
+"5"
+"receptor tyrosine-protein kinase erbB-3-like protein [Cricetulus griseus]
+
+"
+"6"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X1 [Cricetulus griseus]
+
+"
+"7"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Peromyscus maniculatus bairdii]
+
+"
+"8"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X1 [Marmota marmota marmota]
+
+"
+"9"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X3 [Rattus norvegicus]
+
+"
+"10"
+"v-erb-b2 erythroblastic leukemia viral oncogene homolog 3 (avian) [Mus musculus]
+
+"
+"11"
+"receptor tyrosine-protein kinase erbB-3 isoform 1 precursor [Homo sapiens] >gi|119534|sp|P21860.1|ERBB3_HUMAN RecName: Full=Receptor tyrosine-protein kinase erbB-3; AltName: Full=Proto-oncogene-like protein c-ErbB-3; AltName: Full=Tyrosine kinase-type cell surface receptor HER3; Flags: Precursor >gi|181980|gb|AAA35790.1| epidermal growth factor receptor precursor [Homo sapiens] >gi|52789419|gb|AAH82992.1| V-erb-b2 erythroblastic leukemia viral oncogene homolog 3 (avian) [Homo sapiens] >gi|61354705|gb|AAX41046.1| v-erb-b2 erythroblastic leukemia viral oncogene-like 3 [synthetic construct] >gi|61354711|gb|AAX41047.1| v-erb-b2 erythroblastic leukemia viral oncogene-like 3 [synthetic construct] >gi|61354718|gb|AAX41048.1| v-erb-b2 erythroblastic leukemia viral oncogene-like 3 [synthetic construct]
+
+"
+"12"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X1 [Pan troglodytes]
+
+"
+"13"
+"v-erb-b2 erythroblastic leukemia viral oncogene homolog 3 (avian), isoform CRA_a [Homo sapiens] >gi|119617286|gb|EAW96880.1| v-erb-b2 erythroblastic leukemia viral oncogene homolog 3 (avian), isoform CRA_a [Homo sapiens]
+
+"
+"14"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Rhinopithecus roxellana]
+
+"
+"15"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Chinchilla lanigera]
+
+"
+"16"
+"unnamed protein product [Homo sapiens]
+
+"
+"17"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Cavia porcellus]
+
+"
+"18"
+"HER3 protein precursor [Homo sapiens]
+
+"
+"19"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Macaca fascicularis] >gi|355564346|gb|EHH20846.1| Receptor tyrosine-protein kinase erbB-3 [Macaca mulatta] >gi|355786205|gb|EHH66388.1| Receptor tyrosine-protein kinase erbB-3 [Macaca fascicularis]
+
+"
+"20"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Chlorocebus sabaeus]
+
+"
+"21"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Macaca nemestrina]
+
+"
+"22"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X1 [Galeopterus variegatus]
+
+"
+"23"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Macaca mulatta]
+
+"
+"24"
+"receptor tyrosine-protein kinase erbB-3 precursor [Felis catus] >gi|763826708|gb|AJQ81036.1| ERBB3 [Felis catus]
+
+"
+"25"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Ailuropoda melanoleuca]
+
+"
+"26"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Odobenus rosmarus divergens]
+
+"
+"27"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Ceratotherium simum simum]
+
+"
+"28"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X2 [Cercocebus atys]
+
+"
+"29"
+"receptor tyrosine-protein kinase erbB-3 precursor [Pongo abelii] >gi|75041961|sp|Q5RB22.1|ERBB3_PONAB RecName: Full=Receptor tyrosine-protein kinase erbB-3; AltName: Full=Proto-oncogene-like protein c-ErbB-3; Flags: Precursor >gi|55728594|emb|CAH91038.1| hypothetical protein [Pongo abelii]
+
+"
+"30"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Nomascus leucogenys] >gi|821004939|ref|XP_012365819.1| PREDICTED: receptor tyrosine-protein kinase erbB-3 [Nomascus leucogenys]
+
+"
+"31"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Mandrillus leucophaeus]
+
+"
+"32"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X1 [Pongo abelii]
+
+"
+"33"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Dipodomys ordii]
+
+"
+"34"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Leptonychotes weddellii]
+
+"
+"35"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X1 [Papio anubis]
+
+"
+"36"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Mustela putorius furo]
+
+"
+"37"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Tupaia chinensis]
+
+"
+"38"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Equus asinus]
+
+"
+"39"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X1 [Aotus nancymaae]
+
+"
+"40"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Saimiri boliviensis boliviensis]
+
+"
+"41"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Nannospalax galili]
+
+"
+"42"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Cebus capucinus imitator]
+
+"
+"43"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X1 [Pteropus alecto]
+
+"
+"44"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X1 [Pteropus vampyrus]
+
+"
+"45"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X2 [Oryctolagus cuniculus]
+
+"
+"46"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Octodon degus]
+
+"
+"47"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X1 [Balaenoptera acutorostrata scammoni]
+
+"
+"48"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Ictidomys tridecemlineatus]
+
+"
+"49"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Orcinus orca] >gi|470599781|ref|XP_004312045.1| PREDICTED: receptor tyrosine-protein kinase erbB-3 [Tursiops truncatus]
+
+"
+"50"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Equus caballus]
+
+"
+"51"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Microtus ochrogaster]
+
+"
+"52"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X1 [Camelus bactrianus]
+
+"
+"53"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Lipotes vexillifer]
+
+"
+"54"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Equus przewalskii]
+
+"
+"55"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X1 [Camelus ferus]
+
+"
+"56"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Physeter catodon]
+
+"
+"57"
+"PREDICTED: LOW QUALITY PROTEIN: receptor tyrosine-protein kinase erbB-3 [Canis lupus familiaris]
+
+"
+"58"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Camelus dromedarius]
+
+"
+"59"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X1 [Vicugna pacos]
+
+"
+"60"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Ochotona princeps]
+
+"
+"61"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Miniopterus natalensis]
+
+"
+"62"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Rousettus aegyptiacus]
+
+"
+"63"
+"hypothetical protein PANDA_004074, partial [Ailuropoda melanoleuca]
+
+"
+"64"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Erinaceus europaeus]
+
+"
+"65"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Chrysochloris asiatica]
+
+"
+"66"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X1 [Cercocebus atys]
+
+"
+"67"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Acinonyx jubatus]
+
+"
+"68"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Otolemur garnettii]
+
+"
+"69"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X2 [Papio anubis]
+
+"
+"70"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Panthera tigris altaica]
+
+"
+"71"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Orycteropus afer afer]
+
+"
+"72"
+"PREDICTED: LOW QUALITY PROTEIN: receptor tyrosine-protein kinase erbB-3 [Loxodonta africana]
+
+"
+"73"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Ursus maritimus]
+
+"
+"74"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Microcebus murinus]
+
+"
+"75"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Heterocephalus glaber]
+
+"
+"76"
+"PREDICTED: LOW QUALITY PROTEIN: receptor tyrosine-protein kinase erbB-3 [Dasypus novemcinctus]
+
+"
+"77"
+"Receptor tyrosine-protein kinase erbB-3 [Bos mutus]
+
+"
+"78"
+"receptor tyrosine-protein kinase erbB-3 precursor [Bos taurus] >gi|151553682|gb|AAI50129.1| ERBB3 protein [Bos taurus] >gi|296487462|tpg|DAA29575.1| TPA: receptor tyrosine-protein kinase erbB-3 [Bos taurus]
+
+"
+"79"
+"Receptor tyrosine-protein kinase erbB-3 [Heterocephalus glaber]
+
+"
+"80"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Bison bison bison]
+
+"
+"81"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Trichechus manatus latirostris]
+
+"
+"82"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Elephantulus edwardii]
+
+"
+"83"
+"v-erb-b2 erythroblastic leukemia viral oncogene homolog 3 (avian), isoform CRA_b [Rattus norvegicus]
+
+"
+"84"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X2 [Myotis lucifugus]
+
+"
+"85"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Eptesicus fuscus]
+
+"
+"86"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Propithecus coquereli]
+
+"
+"87"
+"PREDICTED: LOW QUALITY PROTEIN: receptor tyrosine-protein kinase erbB-3 [Bos mutus]
+
+"
+"88"
+"PREDICTED: LOW QUALITY PROTEIN: receptor tyrosine-protein kinase erbB-3 [Callithrix jacchus]
+
+"
+"89"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Bubalus bubalis]
+
+"
+"90"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Sorex araneus]
+
+"
+"91"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X2 [Balaenoptera acutorostrata scammoni]
+
+"
+"92"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Capra hircus]
+
+"
+"93"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X1 [Myotis lucifugus]
+
+"
+"94"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X1 [Manis javanica]
+
+"
+"95"
+"Receptor tyrosine-protein kinase erbB-3 [Pteropus alecto]
+
+"
+"96"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X2 [Ovis aries musimon]
+
+"
+"97"
+"unnamed protein product [Homo sapiens]
+
+"
+"98"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X2 [Pan troglodytes] >gi|1034095391|ref|XP_016778716.1| PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X2 [Pan troglodytes]
+
+"
+"99"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Condylura cristata]
+
+"
+"100"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Colobus angolensis palliatus]
+
+"
+"101"
+"PREDICTED: LOW QUALITY PROTEIN: receptor tyrosine-protein kinase erbB-3 [Pantholops hodgsonii]
+
+"
+"102"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Pan paniscus]
+
+"
+"103"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X3 [Myotis lucifugus]
+
+"
+"104"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X2 [Aotus nancymaae]
+
+"
+"105"
+"Receptor tyrosine-protein kinase erbB-3 [Myotis brandtii]
+
+"
+"106"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X1 [Ovis aries]
+
+"
+"107"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X1 [Oryctolagus cuniculus]
+
+"
+"108"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X3 [Cercocebus atys]
+
+"
+"109"
+"Receptor tyrosine-protein kinase erbB-3 [Cricetulus griseus]
+
+"
+"110"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X2 [Pteropus vampyrus]
+
+"
+"111"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X2 [Pteropus alecto]
+
+"
+"112"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X2 [Camelus bactrianus] >gi|743735765|ref|XP_010962180.1| PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X2 [Camelus bactrianus]
+
+"
+"113"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X2 [Camelus ferus]
+
+"
+"114"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X2 [Vicugna pacos]
+
+"
+"115"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Fukomys damarensis] >gi|676269163|gb|KFO24579.1| Receptor tyrosine-protein kinase erbB-3 [Fukomys damarensis]
+
+"
+"116"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X1 [Myotis davidii]
+
+"
+"117"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X2 [Manis javanica]
+
+"
+"118"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X2 [Galeopterus variegatus]
+
+"
+"119"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X1 [Myotis brandtii]
+
+"
+"120"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Rhinopithecus bieti]
+
+"
+"121"
+"receptor tyrosine-protein kinase erbB-3 precursor [Camelus ferus]
+
+"
+"122"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X2 [Myotis davidii]
+
+"
+"123"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Monodelphis domestica]
+
+"
+"124"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X2 [Myotis brandtii]
+
+"
+"125"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X3 [Pan troglodytes]
+
+"
+"126"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X4 [Cercocebus atys]
+
+"
+"127"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X3 [Galeopterus variegatus]
+
+"
+"128"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Sarcophilus harrisii]
+
+"
+"129"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X2 [Marmota marmota marmota]
+
+"
+"130"
+"Receptor tyrosine-protein kinase erbB-3, partial [Tupaia chinensis]
+
+"
+"131"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Jaculus jaculus]
+
+"
+"132"
+"unnamed protein product [Homo sapiens]
+
+"
+"133"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X1 [Gallus gallus]
+
+"
+"134"
+"hypothetical protein Y1Q_0003953 [Alligator mississippiensis]
+
+"
+"135"
+"receptor tyrosine-protein kinase erbB-3 precursor [Gallus gallus] >gi|86277774|gb|ABC88378.1| receptor tyrosine-protein kinase precursor [Gallus gallus]
+
+"
+"136"
+"hypothetical protein Y1Q_0003953 [Alligator mississippiensis]
+
+"
+"137"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Gekko japonicus]
+
+"
+"138"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Anolis carolinensis]
+
+"
+"139"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Python bivittatus]
+
+"
+"140"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Thamnophis sirtalis]
+
+"
+"141"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Protobothrops mucrosquamatus]
+
+"
+"142"
+"PREDICTED: LOW QUALITY PROTEIN: receptor tyrosine-protein kinase erbB-3 [Coturnix japonica]
+
+"
+"143"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Alligator sinensis]
+
+"
+"144"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3, partial [Carlito syrichta]
+
+"
+"145"
+"PREDICTED: LOW QUALITY PROTEIN: receptor tyrosine-protein kinase erbB-3-like, partial [Colius striatus]
+
+"
+"146"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Lepidothrix coronata]
+
+"
+"147"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Xenopus tropicalis]
+
+"
+"148"
+"hypothetical protein XELAEV_18013369mg [Xenopus laevis]
+
+"
+"149"
+"hypothetical protein XENTR_v900062492mg, partial [Xenopus tropicalis]
+
+"
+"150"
+"hypothetical protein XELAEV_18015867mg [Xenopus laevis]
+
+"
+"151"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Pseudopodoces humilis]
+
+"
+"152"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like [Sinocyclocheilus rhinocerous]
+
+"
+"153"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like [Pygocentrus nattereri]
+
+"
+"154"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Chrysemys picta bellii]
+
+"
+"155"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like isoform X2 [Sinocyclocheilus rhinocerous]
+
+"
+"156"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like [Sinocyclocheilus anshuiensis]
+
+"
+"157"
+"PREDICTED: LOW QUALITY PROTEIN: receptor tyrosine-protein kinase erbB-3-like [Sinocyclocheilus anshuiensis]
+
+"
+"158"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like isoform X1 [Sinocyclocheilus rhinocerous]
+
+"
+"159"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like isoform X4 [Salmo salar]
+
+"
+"160"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like isoform X3 [Salmo salar]
+
+"
+"161"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X2 [Astyanax mexicanus]
+
+"
+"162"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X1 [Astyanax mexicanus]
+
+"
+"163"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like isoform X1 [Salmo salar]
+
+"
+"164"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like isoform X2 [Salmo salar]
+
+"
+"165"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like isoform X1 [Salmo salar]
+
+"
+"166"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X2 [Danio rerio]
+
+"
+"167"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X1 [Danio rerio]
+
+"
+"168"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like isoform X2 [Salmo salar]
+
+"
+"169"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like isoform X2 [Pundamilia nyererei]
+
+"
+"170"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like isoform X2 [Maylandia zebra]
+
+"
+"171"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like isoform X2 [Haplochromis burtoni]
+
+"
+"172"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like isoform X1 [Pundamilia nyererei]
+
+"
+"173"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like isoform X1 [Maylandia zebra]
+
+"
+"174"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like isoform X3 [Pundamilia nyererei]
+
+"
+"175"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like isoform X1 [Haplochromis burtoni]
+
+"
+"176"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like [Cynoglossus semilaevis]
+
+"
+"177"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Larimichthys crocea]
+
+"
+"178"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Alligator mississippiensis]
+
+"
+"179"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like isoform X2 [Oreochromis niloticus]
+
+"
+"180"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Takifugu rubripes]
+
+"
+"181"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like isoform X1 [Oreochromis niloticus]
+
+"
+"182"
+"Receptor tyrosine-protein kinase erbB-3 [Larimichthys crocea]
+
+"
+"183"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like [Larimichthys crocea]
+
+"
+"184"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like isoform X1 [Pygocentrus nattereri]
+
+"
+"185"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like [Takifugu rubripes]
+
+"
+"186"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like isoform X2 [Pygocentrus nattereri]
+
+"
+"187"
+"erbB3 [Takifugu rubripes]
+
+"
+"188"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like isoform X3 [Fundulus heteroclitus]
+
+"
+"189"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like isoform X2 [Fundulus heteroclitus]
+
+"
+"190"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like [Stegastes partitus]
+
+"
+"191"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like isoform X1 [Fundulus heteroclitus]
+
+"
+"192"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like isoform X1 [Austrofundulus limnaeus]
+
+"
+"193"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like isoform X1 [Salmo salar]
+
+"
+"194"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like isoform X1 [Kryptolebias marmoratus]
+
+"
+"195"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like isoform X2 [Salmo salar]
+
+"
+"196"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like isoform X2 [Kryptolebias marmoratus]
+
+"
+"197"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like isoform X2 [Austrofundulus limnaeus]
+
+"
+"198"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like isoform X4 [Kryptolebias marmoratus]
+
+"
+"199"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like isoform X3 [Austrofundulus limnaeus]
+
+"
+"200"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like isoform X2 [Nothobranchius furzeri]
+
+"
+"201"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like isoform X1 [Nothobranchius furzeri]
+
+"
+"202"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like isoform X1 [Sinocyclocheilus grahami]
+
+"
+"203"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like isoform X1 [Salmo salar]
+
+"
+"204"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like isoform X2 [Sinocyclocheilus grahami]
+
+"
+"205"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like isoform X2 [Salmo salar]
+
+"
+"206"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X1 [Ictalurus punctatus] >gi|1042292912|ref|XP_017342776.1| PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X1 [Ictalurus punctatus]
+
+"
+"207"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X1 [Kryptolebias marmoratus]
+
+"
+"208"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X2 [Kryptolebias marmoratus]
+
+"
+"209"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like [Cyprinodon variegatus]
+
+"
+"210"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Stegastes partitus]
+
+"
+"211"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like isoform X1 [Sinocyclocheilus rhinocerous]
+
+"
+"212"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like isoform X1 [Sinocyclocheilus anshuiensis]
+
+"
+"213"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X2 [Ictalurus punctatus]
+
+"
+"214"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like isoform X2 [Sinocyclocheilus anshuiensis]
+
+"
+"215"
+"uncharacterized protein LOC100149258 precursor [Danio rerio] >gi|190336910|gb|AAI62634.1| V-erb-b2 erythroblastic leukemia viral oncogene homolog 3b [Danio rerio]
+
+"
+"216"
+"Chain A, Her3 Extracellular Domain In Complex With Fab Fragment Of Mor09825
+
+"
+"217"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like isoform X1 [Poecilia mexicana]
+
+"
+"218"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Oryzias latipes]
+
+"
+"219"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like isoform X1 [Poecilia formosa] >gi|1025445196|ref|XP_016529173.1| PREDICTED: receptor tyrosine-protein kinase erbB-3-like isoform X1 [Poecilia formosa]
+
+"
+"220"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like isoform X2 [Sinocyclocheilus anshuiensis]
+
+"
+"221"
+"Chain A, Crystal Structure Of Serbb3-fab3379 Complex >gi|939186747|pdb|5CUS|B Chain B, Crystal Structure Of Serbb3-fab3379 Complex >gi|939186748|pdb|5CUS|C Chain C, Crystal Structure Of Serbb3-fab3379 Complex >gi|939186749|pdb|5CUS|D Chain D, Crystal Structure Of Serbb3-fab3379 Complex
+
+"
+"222"
+"PREDICTED: erbB-3b isoform X1 [Danio rerio]
+
+"
+"223"
+"PREDICTED: LOW QUALITY PROTEIN: receptor tyrosine-protein kinase erbB-3-like [Cynoglossus semilaevis]
+
+"
+"224"
+"Chain A, Structure Of The Her3 (Erbb3) Extracellular Domain >gi|22219398|pdb|1M6B|B Chain B, Structure Of The Her3 (Erbb3) Extracellular Domain
+
+"
+"225"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like isoform X2 [Sinocyclocheilus rhinocerous]
+
+"
+"226"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like isoform X3 [Sinocyclocheilus anshuiensis]
+
+"
+"227"
+"erbB-3b precursor [Danio rerio] >gi|57901153|gb|AAW57896.1| Erbb3 [Danio rerio]
+
+"
+"228"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like isoform X1 [Poecilia latipinna]
+
+"
+"229"
+"Chain C, Crystal Structure Of Anti-her3 Fab Rg7116 In Complex With The Extracellular Domains Of Human Her3 (erbb3)
+
+"
+"230"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like [Xiphophorus maculatus]
+
+"
+"231"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like isoform X1 [Poecilia reticulata]
+
+"
+"232"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X2 [Poecilia reticulata]
+
+"
+"233"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X1 [Poecilia reticulata]
+
+"
+"234"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X2 [Poecilia latipinna]
+
+"
+"235"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like [Oryzias latipes]
+
+"
+"236"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X1 [Poecilia latipinna]
+
+"
+"237"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like [Sinocyclocheilus rhinocerous]
+
+"
+"238"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X1 [Poecilia formosa]
+
+"
+"239"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X2 [Poecilia formosa]
+
+"
+"240"
+"PREDICTED: LOW QUALITY PROTEIN: receptor tyrosine-protein kinase erbB-3 [Xiphophorus maculatus]
+
+"
+"241"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Poecilia mexicana]
+
+"
+"242"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Nothobranchius furzeri]
+
+"
+"243"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like isoform X2 [Oreochromis niloticus]
+
+"
+"244"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like isoform X1 [Sinocyclocheilus anshuiensis]
+
+"
+"245"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X3 [Poecilia latipinna] >gi|961889173|ref|XP_014900008.1| PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X3 [Poecilia latipinna]
+
+"
+"246"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X3 [Poecilia reticulata]
+
+"
+"247"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like isoform X3 [Oreochromis niloticus]
+
+"
+"248"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like isoform X1 [Oreochromis niloticus]
+
+"
+"249"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Haplochromis burtoni]
+
+"
+"250"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X4 [Sorex araneus]
+
+"
+"251"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X2 [Sorex araneus]
+
+"
+"252"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X3 [Poecilia formosa] >gi|1025450094|ref|XP_016530572.1| PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X3 [Poecilia formosa]
+
+"
+"253"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 [Lepisosteus oculatus]
+
+"
+"254"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like [Sinocyclocheilus grahami]
+
+"
+"255"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X2 [Maylandia zebra]
+
+"
+"256"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like isoform X3 [Salmo salar]
+
+"
+"257"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X1 [Maylandia zebra]
+
+"
+"258"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like isoform X4 [Elephantulus edwardii]
+
+"
+"259"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X2 [Oryctolagus cuniculus]
+
+"
+"260"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like isoform X2 [Elephantulus edwardii]
+
+"
+"261"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X2 [Ovis aries]
+
+"
+"262"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X4 [Octodon degus]
+
+"
+"263"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X3 [Myotis brandtii]
+
+"
+"264"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X2 [Capra hircus]
+
+"
+"265"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X2 [Octodon degus]
+
+"
+"266"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X2 [Tupaia chinensis]
+
+"
+"267"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X4 [Dipodomys ordii]
+
+"
+"268"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X4 [Loxodonta africana]
+
+"
+"269"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X2 [Loxodonta africana]
+
+"
+"270"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X2 [Erinaceus europaeus]
+
+"
+"271"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X4 [Capra hircus]
+
+"
+"272"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 [Saimiri boliviensis boliviensis]
+
+"
+"273"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X2 [Orycteropus afer afer]
+
+"
+"274"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X4 [Ovis aries]
+
+"
+"275"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X2 [Dipodomys ordii]
+
+"
+"276"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X4 [Erinaceus europaeus]
+
+"
+"277"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X4 [Orycteropus afer afer]
+
+"
+"278"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X5 [Myotis brandtii]
+
+"
+"279"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like isoform X1 [Pygocentrus nattereri]
+
+"
+"280"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X7 [Tupaia chinensis]
+
+"
+"281"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X5 [Tupaia chinensis]
+
+"
+"282"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X2 [Pteropus alecto] >gi|759115675|ref|XP_011356964.1| PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X2 [Pteropus vampyrus]
+
+"
+"283"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like isoform X2 [Chrysochloris asiatica]
+
+"
+"284"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like isoform X2 [Lipotes vexillifer]
+
+"
+"285"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X5 [Chinchilla lanigera]
+
+"
+"286"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X2 [Chinchilla lanigera]
+
+"
+"287"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like [Ictalurus punctatus]
+
+"
+"288"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like isoform X4 [Chrysochloris asiatica]
+
+"
+"289"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X1 [Balaenoptera acutorostrata scammoni]
+
+"
+"290"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X4 [Condylura cristata]
+
+"
+"291"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X4 [Pan paniscus]
+
+"
+"292"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X4 [Canis lupus familiaris]
+
+"
+"293"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X2 [Canis lupus familiaris]
+
+"
+"294"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X4 [Pteropus alecto] >gi|759115681|ref|XP_011356966.1| PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X4 [Pteropus vampyrus]
+
+"
+"295"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X2 [Heterocephalus glaber]
+
+"
+"296"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X4 [Orcinus orca]
+
+"
+"297"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X2 [Orcinus orca]
+
+"
+"298"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X4 [Aotus nancymaae]
+
+"
+"299"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X2 [Aotus nancymaae]
+
+"
+"300"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X8 [Homo sapiens] >gi|1034151597|ref|XP_003309503.2| PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X6 [Pan troglodytes] >gi|219520060|gb|AAI43750.1| ERBB4 protein [Homo sapiens]
+
+"
+"301"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like isoform X4 [Lipotes vexillifer]
+
+"
+"302"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X2 [Balaenoptera acutorostrata scammoni]
+
+"
+"303"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like [Pantholops hodgsonii]
+
+"
+"304"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X2 [Condylura cristata]
+
+"
+"305"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X4 [Cebus capucinus imitator]
+
+"
+"306"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X2 [Cebus capucinus imitator]
+
+"
+"307"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X4 [Peromyscus maniculatus bairdii]
+
+"
+"308"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X6 [Chlorocebus sabaeus]
+
+"
+"309"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X4 [Macaca fascicularis] >gi|795534770|ref|XP_011903236.1| PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X7 [Cercocebus atys] >gi|795647157|ref|XP_011738783.1| PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X4 [Macaca nemestrina] >gi|966978075|ref|XP_014966375.1| PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X4 [Macaca mulatta]
+
+"
+"310"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X2 [Pan paniscus]
+
+"
+"311"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X4 [Nomascus leucogenys]
+
+"
+"312"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 [Callorhinchus milii]
+
+"
+"313"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 [Ornithorhynchus anatinus]
+
+"
+"314"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X4 [Mustela putorius furo]
+
+"
+"315"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X3 [Sorex araneus]
+
+"
+"316"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X2 [Nomascus leucogenys]
+
+"
+"317"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X2 [Peromyscus maniculatus bairdii]
+
+"
+"318"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X7 [Homo sapiens] >gi|1034151593|ref|XP_003309504.2| PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X4 [Pan troglodytes] >gi|219517982|gb|AAI43748.1| ERBB4 protein [Homo sapiens]
+
+"
+"319"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X2 [Macaca fascicularis] >gi|795534755|ref|XP_011903233.1| PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X4 [Cercocebus atys] >gi|795647151|ref|XP_011738781.1| PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X2 [Macaca nemestrina] >gi|966978071|ref|XP_014966373.1| PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X2 [Macaca mulatta]
+
+"
+"320"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X5 [Heterocephalus glaber]
+
+"
+"321"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X2 [Mustela putorius furo]
+
+"
+"322"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X1 [Sorex araneus]
+
+"
+"323"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X2 [Eptesicus fuscus]
+
+"
+"324"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X4 [Chlorocebus sabaeus]
+
+"
+"325"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like [Pygocentrus nattereri]
+
+"
+"326"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like [Sinocyclocheilus rhinocerous]
+
+"
+"327"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like [Sinocyclocheilus anshuiensis]
+
+"
+"328"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X4 [Eptesicus fuscus]
+
+"
+"329"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X3 [Mus musculus]
+
+"
+"330"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X4 [Mesocricetus auratus]
+
+"
+"331"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X2 [Mesocricetus auratus]
+
+"
+"332"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X8 [Ovis aries musimon]
+
+"
+"333"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X2 [Mus musculus]
+
+"
+"334"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X2 [Ictidomys tridecemlineatus]
+
+"
+"335"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X6 [Ovis aries musimon]
+
+"
+"336"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X4 [Ictidomys tridecemlineatus]
+
+"
+"337"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X3 [Octodon degus]
+
+"
+"338"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X1 [Ictalurus punctatus]
+
+"
+"339"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 [Miniopterus natalensis]
+
+"
+"340"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X1 [Octodon degus]
+
+"
+"341"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like isoform X1 [Elephantulus edwardii]
+
+"
+"342"
+"PREDICTED: LOW QUALITY PROTEIN: receptor tyrosine-protein kinase erbB-4 [Bison bison bison]
+
+"
+"343"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 [Dasypus novemcinctus]
+
+"
+"344"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X3 [Oryctolagus cuniculus]
+
+"
+"345"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like isoform X2 [Poecilia formosa]
+
+"
+"346"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like isoform X3 [Elephantulus edwardii]
+
+"
+"347"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X3 [Erinaceus europaeus]
+
+"
+"348"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X1 [Oryctolagus cuniculus]
+
+"
+"349"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X1 [Ovis aries]
+
+"
+"350"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X3 [Dipodomys ordii]
+
+"
+"351"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X1 [Capra hircus]
+
+"
+"352"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X2 [Ictalurus punctatus]
+
+"
+"353"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like isoform X2 [Austrofundulus limnaeus]
+
+"
+"354"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 [Ailuropoda melanoleuca]
+
+"
+"355"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X1 [Orycteropus afer afer]
+
+"
+"356"
+"N-EGFP/v-erb-a erythroblastic leukemia viral oncogene 4-like protein fusion protein [synthetic construct]
+
+"
+"357"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X1 [Erinaceus europaeus]
+
+"
+"358"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like isoform X3 [Poecilia formosa]
+
+"
+"359"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 [Camelus ferus]
+
+"
+"360"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X3 [Capra hircus]
+
+"
+"361"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X4 [Poecilia formosa]
+
+"
+"362"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like isoform X2 [Poecilia mexicana]
+
+"
+"363"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X3 [Tupaia chinensis]
+
+"
+"364"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 [Pundamilia nyererei]
+
+"
+"365"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X1 [Heterocephalus glaber]
+
+"
+"366"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like [Clupea harengus]
+
+"
+"367"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X3 [Loxodonta africana]
+
+"
+"368"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X1 [Loxodonta africana]
+
+"
+"369"
+"PREDICTED: LOW QUALITY PROTEIN: receptor tyrosine-protein kinase erbB-4 [Ursus maritimus]
+
+"
+"370"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like isoform X3 [Haplochromis burtoni]
+
+"
+"371"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X4 [Myotis brandtii]
+
+"
+"372"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X3 [Chinchilla lanigera]
+
+"
+"373"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X1 [Chinchilla lanigera]
+
+"
+"374"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X6 [Chrysemys picta bellii]
+
+"
+"375"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like isoform X2 [Maylandia zebra]
+
+"
+"376"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X3 [Ovis aries]
+
+"
+"377"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4, partial [Sus scrofa]
+
+"
+"378"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X3 [Cynoglossus semilaevis]
+
+"
+"379"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X1 [Mus musculus] >gi|374095519|sp|Q61527.5|ERBB4_MOUSE RecName: Full=Receptor tyrosine-protein kinase erbB-4; AltName: Full=Proto-oncogene-like protein c-ErbB-4; Contains: RecName: Full=ERBB4 intracellular domain; Short=4ICD; Short=E4ICD; AltName: Full=s80HER4; Flags: Precursor
+
+"
+"380"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X3 [Orycteropus afer afer]
+
+"
+"381"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X4 [Chrysemys picta bellii]
+
+"
+"382"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X1 [Tupaia chinensis]
+
+"
+"383"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X1 [Pteropus alecto] >gi|759115672|ref|XP_011356962.1| PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X1 [Pteropus vampyrus]
+
+"
+"384"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X3 [Heterocephalus glaber]
+
+"
+"385"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X1 [Dipodomys ordii]
+
+"
+"386"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X6 [Tupaia chinensis]
+
+"
+"387"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like isoform X2 [Oreochromis niloticus]
+
+"
+"388"
+"unnamed protein product, partial [Mus musculus]
+
+"
+"389"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X1 [Aotus nancymaae]
+
+"
+"390"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 [Camelus bactrianus] >gi|744601749|ref|XP_010990780.1| PREDICTED: receptor tyrosine-protein kinase erbB-4 [Camelus dromedarius]
+
+"
+"391"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like isoform X1 [Lipotes vexillifer]
+
+"
+"392"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X2 [Myotis brandtii]
+
+"
+"393"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X3 [Orcinus orca]
+
+"
+"394"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X3 [Canis lupus familiaris]
+
+"
+"395"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X1 [Canis lupus familiaris]
+
+"
+"396"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X3 [Pteropus alecto] >gi|759115678|ref|XP_011356965.1| PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X3 [Pteropus vampyrus]
+
+"
+"397"
+"receptor tyrosine-protein kinase erbB-4 isoform JM-a/CVT-1 precursor [Homo sapiens] >gi|1034151589|ref|XP_516067.3| PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X2 [Pan troglodytes] >gi|3913590|sp|Q15303.1|ERBB4_HUMAN RecName: Full=Receptor tyrosine-protein kinase erbB-4; AltName: Full=Proto-oncogene-like protein c-ErbB-4; AltName: Full=Tyrosine kinase-type cell surface receptor HER4; AltName: Full=p180erbB4; Contains: RecName: Full=ERBB4 intracellular domain; Short=4ICD; Short=E4ICD; AltName: Full=s80HER4; Flags: Precursor >gi|337360|gb|AAB59446.1| receptor tyrosine kinase [Homo sapiens] >gi|61354696|gb|AAX41045.1| v-erb-a erythroblastic leukemia viral oncogene-like 4 [synthetic construct] >gi|85566880|gb|AAI12200.1| V-erb-a erythroblastic leukemia viral oncogene homolog 4 (avian) [Homo sapiens]
+
+"
+"398"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X4 [Tupaia chinensis]
+
+"
+"399"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X3 [Condylura cristata]
+
+"
+"400"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X1 [Orcinus orca]
+
+"
+"401"
+"PREDICTED: LOW QUALITY PROTEIN: receptor tyrosine-protein kinase erbB-4 [Callithrix jacchus]
+
+"
+"402"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X2 [Rhinopithecus bieti]
+
+"
+"403"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X1 [Cebus capucinus imitator]
+
+"
+"404"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like isoform X3 [Chrysochloris asiatica]
+
+"
+"405"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4, partial [Rhinopithecus roxellana]
+
+"
+"406"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 [Monodelphis domestica]
+
+"
+"407"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X1 [Macaca fascicularis] >gi|795534745|ref|XP_011903230.1| PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X2 [Cercocebus atys] >gi|795647145|ref|XP_011738779.1| PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X1 [Macaca nemestrina] >gi|795647148|ref|XP_011738780.1| PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X1 [Macaca nemestrina] >gi|966978069|ref|XP_014966372.1| PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X1 [Macaca mulatta]
+
+"
+"408"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X1 [Condylura cristata]
+
+"
+"409"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X3 [Pan paniscus]
+
+"
+"410"
+"receptor tyrosine-protein kinase erbB-4 precursor [Mus musculus] >gi|162319130|gb|AAI56356.1| V-erb-a erythroblastic leukemia viral oncogene homolog 4 (avian), partial [synthetic construct]
+
+"
+"411"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like [Sinocyclocheilus rhinocerous]
+
+"
+"412"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 [Equus caballus]
+
+"
+"413"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like isoform X1 [Chrysochloris asiatica]
+
+"
+"414"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like isoform X3 [Lipotes vexillifer]
+
+"
+"415"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 [Jaculus jaculus]
+
+"
+"416"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X1 [Pan paniscus]
+
+"
+"417"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X1 [Nomascus leucogenys]
+
+"
+"418"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X1 [Rhinopithecus bieti]
+
+"
+"419"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like isoform X2 [Poecilia latipinna]
+
+"
+"420"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X3 [Aotus nancymaae]
+
+"
+"421"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X5 [Chlorocebus sabaeus]
+
+"
+"422"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X2 [Chlorocebus sabaeus]
+
+"
+"423"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X3 [Macaca fascicularis] >gi|795534760|ref|XP_011903234.1| PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X5 [Cercocebus atys] >gi|795647154|ref|XP_011738782.1| PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X3 [Macaca nemestrina] >gi|966978073|ref|XP_014966374.1| PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X3 [Macaca mulatta]
+
+"
+"424"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X3 [Nomascus leucogenys]
+
+"
+"425"
+"receptor tyrosine-protein kinase erbB-4 isoform JM-a/CVT-2 precursor [Homo sapiens] >gi|1034151595|ref|XP_001146866.3| PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X5 [Pan troglodytes] >gi|219521515|gb|AAI43742.1| V-erb-a erythroblastic leukemia viral oncogene homolog 4 (avian) [Homo sapiens]
+
+"
+"426"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X3 [Cebus capucinus imitator]
+
+"
+"427"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X3 [Kryptolebias marmoratus]
+
+"
+"428"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like isoform X2 [Poecilia reticulata]
+
+"
+"429"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X1 [Cyprinodon variegatus]
+
+"
+"430"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 [Equus asinus]
+
+"
+"431"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X3 [Mustela putorius furo]
+
+"
+"432"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 [Aptenodytes forsteri]
+
+"
+"433"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 [Nannospalax galili]
+
+"
+"434"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X3 [Eptesicus fuscus]
+
+"
+"435"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like isoform X1 [Poecilia formosa]
+
+"
+"436"
+"receptor tyrosine kinase isoform JMa cyt2 [Rattus norvegicus]
+
+"
+"437"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X1 [Danio rerio]
+
+"
+"438"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 [Stegastes partitus]
+
+"
+"439"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X1 [Eptesicus fuscus]
+
+"
+"440"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X3 [Peromyscus maniculatus bairdii]
+
+"
+"441"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X1 [Mesocricetus auratus]
+
+"
+"442"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X1 [Mustela putorius furo]
+
+"
+"443"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 [Felis catus]
+
+"
+"444"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X1 [Peromyscus maniculatus bairdii]
+
+"
+"445"
+"receptor tyrosine kinase isoform JMa cyt1 [Rattus norvegicus] >gi|149015998|gb|EDL75279.1| v-erb-a erythroblastic leukemia viral oncogene homolog 4 (avian), isoform CRA_b [Rattus norvegicus]
+
+"
+"446"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X3 [Ictalurus punctatus]
+
+"
+"447"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like isoform X3 [Austrofundulus limnaeus]
+
+"
+"448"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X1 [Anas platyrhynchos]
+
+"
+"449"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like isoform X1 [Haplochromis burtoni]
+
+"
+"450"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X3 [Mesocricetus auratus]
+
+"
+"451"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X1 [Cynoglossus semilaevis]
+
+"
+"452"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like isoform X3 [Fundulus heteroclitus]
+
+"
+"453"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X1 [Myotis brandtii]
+
+"
+"454"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X1 [Ictidomys tridecemlineatus]
+
+"
+"455"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like [Sinocyclocheilus anshuiensis]
+
+"
+"456"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X7 [Ovis aries musimon]
+
+"
+"457"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X5 [Ovis aries musimon]
+
+"
+"458"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X3 [Ictidomys tridecemlineatus]
+
+"
+"459"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X1 [Kryptolebias marmoratus]
+
+"
+"460"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like [Sinocyclocheilus rhinocerous]
+
+"
+"461"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X5 [Coturnix japonica]
+
+"
+"462"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X2 [Coturnix japonica]
+
+"
+"463"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 [Apteryx australis mantelli]
+
+"
+"464"
+"erb-b2 receptor tyrosine kinase 4 L homeolog precursor [Xenopus laevis] >gi|109631104|gb|ABG35747.1| receptor tyrosine kinase ErbB4 [Xenopus laevis]
+
+"
+"465"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X4 [Homo sapiens]
+
+"
+"466"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X2 [Cyprinodon variegatus]
+
+"
+"467"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X4 [Corvus cornix cornix]
+
+"
+"468"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X1 [Pygocentrus nattereri] >gi|1049247235|ref|XP_017562813.1| PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X1 [Pygocentrus nattereri]
+
+"
+"469"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like [Clupea harengus]
+
+"
+"470"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X3 [Cercocebus atys]
+
+"
+"471"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X3 [Corvus cornix cornix]
+
+"
+"472"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X3 [Chlorocebus sabaeus]
+
+"
+"473"
+"hypothetical protein EGM_04277, partial [Macaca fascicularis]
+
+"
+"474"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X1 [Chlorocebus sabaeus]
+
+"
+"475"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 [Zonotrichia albicollis]
+
+"
+"476"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X3 [Pan troglodytes]
+
+"
+"477"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like [Sinocyclocheilus anshuiensis]
+
+"
+"478"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X5 [Anser cygnoides domesticus]
+
+"
+"479"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 [Fukomys damarensis]
+
+"
+"480"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like isoform X2 [Poecilia formosa]
+
+"
+"481"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X1 [Cercocebus atys] >gi|795534739|ref|XP_011903229.1| PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X1 [Cercocebus atys]
+
+"
+"482"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X5 [Homo sapiens] >gi|1034151585|ref|XP_016805913.1| PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X1 [Pan troglodytes] >gi|1034151587|ref|XP_016805914.1| PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X1 [Pan troglodytes]
+
+"
+"483"
+"hypothetical protein EGK_04756, partial [Macaca mulatta]
+
+"
+"484"
+"hypothetical protein XELAEV_18047307mg [Xenopus laevis]
+
+"
+"485"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 [Ficedula albicollis]
+
+"
+"486"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 [Calidris pugnax]
+
+"
+"487"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like isoform X1 [Austrofundulus limnaeus]
+
+"
+"488"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X7 [Anser cygnoides domesticus]
+
+"
+"489"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4, partial [Carlito syrichta]
+
+"
+"490"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like [Nothobranchius furzeri]
+
+"
+"491"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like isoform X1 [Maylandia zebra]
+
+"
+"492"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 [Taeniopygia guttata]
+
+"
+"493"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like isoform X2 [Haplochromis burtoni]
+
+"
+"494"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X2 [Cynoglossus semilaevis]
+
+"
+"495"
+"receptor tyrosine-protein kinase erbB-4 precursor [Rattus norvegicus] >gi|21431759|sp|Q62956.3|ERBB4_RAT RecName: Full=Receptor tyrosine-protein kinase erbB-4; AltName: Full=Proto-oncogene-like protein c-ErbB-4; Contains: RecName: Full=ERBB4 intracellular domain; Short=4ICD; Short=E4ICD; AltName: Full=s80HER4; Flags: Precursor >gi|4176735|gb|AAD08899.1| receptor tyrosine kinase [Rattus norvegicus]
+
+"
+"496"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 [Pygoscelis adeliae]
+
+"
+"497"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X2 [Chrysemys picta bellii]
+
+"
+"498"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like isoform X1 [Fundulus heteroclitus]
+
+"
+"499"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 [Calypte anna]
+
+"
+"500"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like [Oreochromis niloticus]
+
+"
+"501"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X5 [Chrysemys picta bellii]
+
+"
+"502"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 [Serinus canaria]
+
+"
+"503"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like isoform X1 [Oreochromis niloticus]
+
+"
+"504"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X2 [Pygocentrus nattereri]
+
+"
+"505"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X2 [Kryptolebias marmoratus]
+
+"
+"506"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 [Pseudopodoces humilis]
+
+"
+"507"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like isoform X4 [Sinocyclocheilus anshuiensis]
+
+"
+"508"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like [Salmo salar]
+
+"
+"509"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 [Esox lucius]
+
+"
+"510"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like [Cyprinodon variegatus]
+
+"
+"511"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X3 [Chrysemys picta bellii]
+
+"
+"512"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X3 [Gallus gallus]
+
+"
+"513"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like [Fundulus heteroclitus]
+
+"
+"514"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X1 [Chrysemys picta bellii]
+
+"
+"515"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X2 [Xenopus tropicalis]
+
+"
+"516"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like [Maylandia zebra]
+
+"
+"517"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X3 [Xenopus tropicalis]
+
+"
+"518"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 [Cyprinodon variegatus]
+
+"
+"519"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 [Clupea harengus]
+
+"
+"520"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 [Egretta garzetta]
+
+"
+"521"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X5 [Gallus gallus]
+
+"
+"522"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X2 [Anas platyrhynchos]
+
+"
+"523"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like isoform X2 [Fundulus heteroclitus]
+
+"
+"524"
+"Receptor tyrosine-protein kinase erbB-4, partial [Heterocephalus glaber]
+
+"
+"525"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X4 [Coturnix japonica]
+
+"
+"526"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X1 [Coturnix japonica]
+
+"
+"527"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like [Neolamprologus brichardi]
+
+"
+"528"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X3 [Anas platyrhynchos]
+
+"
+"529"
+"Receptor tyrosine-protein kinase erbB-4, partial [Chaetura pelagica]
+
+"
+"530"
+"receptor tyrosine-protein kinase erbB-4 [Gallus gallus] >gi|67848400|gb|AAY82241.1| ovarian receptor tyrosine kinase erbB4 precusor [Gallus gallus]
+
+"
+"531"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X6 [Homo sapiens]
+
+"
+"532"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X3 [Coturnix japonica]
+
+"
+"533"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X2 [Homo sapiens]
+
+"
+"534"
+"PREDICTED: LOW QUALITY PROTEIN: receptor tyrosine-protein kinase erbB-4 [Geospiza fortis]
+
+"
+"535"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like isoform X1 [Salmo salar]
+
+"
+"536"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X4 [Anas platyrhynchos]
+
+"
+"537"
+"receptor tyrosine-protein kinase erbB-3 precursor [Danio rerio] >gi|26788027|emb|CAD58760.1| novel protein similar to ErbB (v-erb-b erythroblastic leukemia viral oncogene homolog, neuro/glioblastoma derived oncogene homolog) [Danio rerio]
+
+"
+"538"
+"hypothetical protein Y1Q_0008671 [Alligator mississippiensis]
+
+"
+"539"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X4 [Chinchilla lanigera]
+
+"
+"540"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X2 [Corvus cornix cornix]
+
+"
+"541"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 [Chaetura pelagica]
+
+"
+"542"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X6 [Anser cygnoides domesticus]
+
+"
+"543"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X5 [Corvus cornix cornix]
+
+"
+"544"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X1 [Corvus cornix cornix]
+
+"
+"545"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 [Nipponia nippon]
+
+"
+"546"
+"Receptor tyrosine-protein kinase erbB-4, partial [Cuculus canorus]
+
+"
+"547"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X4 [Heterocephalus glaber]
+
+"
+"548"
+"Receptor tyrosine-protein kinase erbB-4, partial [Anas platyrhynchos]
+
+"
+"549"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like [Austrofundulus limnaeus]
+
+"
+"550"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X4 [Anser cygnoides domesticus]
+
+"
+"551"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 [Colobus angolensis palliatus]
+
+"
+"552"
+"Receptor tyrosine-protein kinase erbB-4, partial [Aptenodytes forsteri] >gi|679143729|gb|KFW71075.1| Receptor tyrosine-protein kinase erbB-4, partial [Pygoscelis adeliae]
+
+"
+"553"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 [Alligator sinensis]
+
+"
+"554"
+"Receptor tyrosine-protein kinase erbB-4, partial [Columba livia]
+
+"
+"555"
+"hypothetical protein Y1Q_0008671 [Alligator mississippiensis]
+
+"
+"556"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 [Falco cherrug]
+
+"
+"557"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like [Kryptolebias marmoratus]
+
+"
+"558"
+"receptor tyrosine-protein kinase erbB-4 precursor [Danio rerio] >gi|144952756|gb|ABP04032.1| ErbB4 [Danio rerio]
+
+"
+"559"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 [Columba livia]
+
+"
+"560"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3, partial [Callorhinchus milii]
+
+"
+"561"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 [Cuculus canorus]
+
+"
+"562"
+"hypothetical protein Y1Q_0008671 [Alligator mississippiensis]
+
+"
+"563"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 [Alligator mississippiensis]
+
+"
+"564"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like [Poecilia reticulata]
+
+"
+"565"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X1 [Homo sapiens]
+
+"
+"566"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like [Oryzias latipes]
+
+"
+"567"
+"Receptor tyrosine-protein kinase erbB-4, partial [Calypte anna]
+
+"
+"568"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X3 [Homo sapiens]
+
+"
+"569"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like isoform X2 [Salmo salar]
+
+"
+"570"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 [Haliaeetus leucocephalus]
+
+"
+"571"
+"hypothetical protein Y1Q_0008671 [Alligator mississippiensis]
+
+"
+"572"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X2 [Anolis carolinensis]
+
+"
+"573"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X1 [Gallus gallus]
+
+"
+"574"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X1 [Xenopus tropicalis]
+
+"
+"575"
+"ovarian receptor tyrosine kinase erbB4 precusor [Gallus gallus]
+
+"
+"576"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 [Myotis davidii]
+
+"
+"577"
+"Receptor tyrosine-protein kinase erbB-4, partial [Egretta garzetta]
+
+"
+"578"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like [Stegastes partitus]
+
+"
+"579"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X4 [Gallus gallus]
+
+"
+"580"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X2 [Gallus gallus]
+
+"
+"581"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 [Aquila chrysaetos canadensis]
+
+"
+"582"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 [Poecilia formosa]
+
+"
+"583"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X3 [Anolis carolinensis]
+
+"
+"584"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X1 [Anolis carolinensis]
+
+"
+"585"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4, partial [Poecilia mexicana]
+
+"
+"586"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like, partial [Sinocyclocheilus anshuiensis]
+
+"
+"587"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X1 [Parus major]
+
+"
+"588"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like, partial [Takifugu rubripes]
+
+"
+"589"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 [Sturnus vulgaris]
+
+"
+"590"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X2 [Parus major]
+
+"
+"591"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4, partial [Poecilia latipinna]
+
+"
+"592"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like [Sinocyclocheilus grahami]
+
+"
+"593"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 [Corvus brachyrhynchos]
+
+"
+"594"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 [Picoides pubescens]
+
+"
+"595"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X1 [Esox lucius]
+
+"
+"596"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 [Protobothrops mucrosquamatus]
+
+"
+"597"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 [Charadrius vociferus]
+
+"
+"598"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 [Struthio camelus australis]
+
+"
+"599"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Austrofundulus limnaeus]
+
+"
+"600"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like, partial [Leptonychotes weddellii]
+
+"
+"601"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X2 [Cricetulus griseus]
+
+"
+"602"
+"Receptor tyrosine-protein kinase erbB-4, partial [Struthio camelus australis]
+
+"
+"603"
+"Receptor tyrosine-protein kinase erbB-4, partial [Charadrius vociferus]
+
+"
+"604"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X2 [Lepidothrix coronata]
+
+"
+"605"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 [Echinops telfairi]
+
+"
+"606"
+"Receptor tyrosine-protein kinase erbB-4, partial [Corvus brachyrhynchos]
+
+"
+"607"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like isoform X2 [Poecilia mexicana]
+
+"
+"608"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like isoform X2 [Poecilia latipinna]
+
+"
+"609"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X1 [Takifugu rubripes]
+
+"
+"610"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X2 [Takifugu rubripes]
+
+"
+"611"
+"unnamed protein product [Homo sapiens]
+
+"
+"612"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X7 [Pan troglodytes]
+
+"
+"613"
+"unnamed protein product [Oncorhynchus mykiss]
+
+"
+"614"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like isoform X1 [Poecilia mexicana]
+
+"
+"615"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like isoform X1 [Poecilia latipinna]
+
+"
+"616"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like isoform X4 [Austrofundulus limnaeus] >gi|928052820|ref|XP_013875609.1| PREDICTED: receptor tyrosine-protein kinase erbB-4-like isoform X4 [Austrofundulus limnaeus]
+
+"
+"617"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like [Sinocyclocheilus grahami]
+
+"
+"618"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X2 [Meleagris gallopavo]
+
+"
+"619"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X3 [Meleagris gallopavo]
+
+"
+"620"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X1 [Meleagris gallopavo]
+
+"
+"621"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X1 [Lepidothrix coronata]
+
+"
+"622"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 [Salmo salar]
+
+"
+"623"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X3 [Lepidothrix coronata]
+
+"
+"624"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X4 [Cynoglossus semilaevis]
+
+"
+"625"
+"PREDICTED: LOW QUALITY PROTEIN: receptor tyrosine-protein kinase erbB-4 [Melopsittacus undulatus]
+
+"
+"626"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like [Bubalus bubalis]
+
+"
+"627"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 [Cavia porcellus]
+
+"
+"628"
+"hypothetical protein A6R68_00421 [Neotoma lepida]
+
+"
+"629"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like [Oryzias latipes]
+
+"
+"630"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 [Falco peregrinus]
+
+"
+"631"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 [Acinonyx jubatus]
+
+"
+"632"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 [Panthera tigris altaica]
+
+"
+"633"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4, partial [Mandrillus leucophaeus]
+
+"
+"634"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X4 [Anolis carolinensis] >gi|637249816|ref|XP_008111676.1| PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X4 [Anolis carolinensis]
+
+"
+"635"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like [Ictalurus punctatus] >gi|1042338994|ref|XP_017313327.1| PREDICTED: receptor tyrosine-protein kinase erbB-4-like [Ictalurus punctatus] >gi|1042338996|ref|XP_017313328.1| PREDICTED: receptor tyrosine-protein kinase erbB-4-like [Ictalurus punctatus] >gi|1042338998|ref|XP_017313329.1| PREDICTED: receptor tyrosine-protein kinase erbB-4-like [Ictalurus punctatus] >gi|1042339000|ref|XP_017313330.1| PREDICTED: receptor tyrosine-protein kinase erbB-4-like [Ictalurus punctatus]
+
+"
+"636"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like isoform X2 [Pygocentrus nattereri]
+
+"
+"637"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Haliaeetus leucocephalus]
+
+"
+"638"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 [Ochotona princeps]
+
+"
+"639"
+"PREDICTED: LOW QUALITY PROTEIN: receptor tyrosine-protein kinase erbB-3 [Echinops telfairi]
+
+"
+"640"
+"unnamed protein product, partial [Tetraodon nigroviridis]
+
+"
+"641"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 [Poecilia reticulata]
+
+"
+"642"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X8 [Cercocebus atys]
+
+"
+"643"
+"PREDICTED: LOW QUALITY PROTEIN: receptor tyrosine-protein kinase erbB-4 [Pongo abelii]
+
+"
+"644"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like isoform X1 [Cynoglossus semilaevis] >gi|1035253320|ref|XP_016895459.1| PREDICTED: receptor tyrosine-protein kinase erbB-4-like isoform X1 [Cynoglossus semilaevis]
+
+"
+"645"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Aquila chrysaetos canadensis]
+
+"
+"646"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 [Larimichthys crocea]
+
+"
+"647"
+"Receptor tyrosine-protein kinase erbB-4 [Larimichthys crocea]
+
+"
+"648"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 [Sarcophilus harrisii]
+
+"
+"649"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like isoform X2 [Cynoglossus semilaevis]
+
+"
+"650"
+"Receptor tyrosine-protein kinase erbB-4, partial [Balearica regulorum gibbericeps]
+
+"
+"651"
+"PREDICTED: LOW QUALITY PROTEIN: receptor tyrosine-protein kinase erbB-4 [Esox lucius]
+
+"
+"652"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like [Sinocyclocheilus rhinocerous]
+
+"
+"653"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X6 [Cercocebus atys]
+
+"
+"654"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like isoform X2 [Monodelphis domestica]
+
+"
+"655"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like [Notothenia coriiceps]
+
+"
+"656"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like isoform X1 [Monodelphis domestica]
+
+"
+"657"
+"Receptor tyrosine-protein kinase erbB-4, partial [Picoides pubescens]
+
+"
+"658"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like [Sinocyclocheilus rhinocerous]
+
+"
+"659"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 [Trichechus manatus latirostris]
+
+"
+"660"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Notothenia coriiceps]
+
+"
+"661"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like [Sinocyclocheilus grahami]
+
+"
+"662"
+"Receptor tyrosine-protein kinase erbB-4 [Larimichthys crocea]
+
+"
+"663"
+"unnamed protein product, partial [Tetraodon nigroviridis]
+
+"
+"664"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like, partial [Nothobranchius furzeri]
+
+"
+"665"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like [Poecilia formosa]
+
+"
+"666"
+"Erbb3 protein, partial [Mus musculus]
+
+"
+"667"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like, partial [Poecilia mexicana]
+
+"
+"668"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X5 [Macaca nemestrina]
+
+"
+"669"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like isoform X3 [Kryptolebias marmoratus] >gi|1041096130|ref|XP_017270717.1| PREDICTED: receptor tyrosine-protein kinase erbB-3-like isoform X3 [Kryptolebias marmoratus]
+
+"
+"670"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4, partial [Rousettus aegyptiacus]
+
+"
+"671"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like [Haplochromis burtoni]
+
+"
+"672"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like [Pundamilia nyererei]
+
+"
+"673"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Latimeria chalumnae]
+
+"
+"674"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Lepisosteus oculatus]
+
+"
+"675"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 [Sus scrofa]
+
+"
+"676"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X2 [Esox lucius]
+
+"
+"677"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3-like isoform X3 [Monodelphis domestica]
+
+"
+"678"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X2 [Anser cygnoides domesticus]
+
+"
+"679"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X3 [Anser cygnoides domesticus]
+
+"
+"680"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X1 [Anser cygnoides domesticus]
+
+"
+"681"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X4 [Kryptolebias marmoratus]
+
+"
+"682"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 [Xiphophorus maculatus]
+
+"
+"683"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 [Myotis lucifugus]
+
+"
+"684"
+"receptor tyrosine kinase precursor, partial [Gallus gallus]
+
+"
+"685"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like [Neolamprologus brichardi]
+
+"
+"686"
+"receptor tyrosine kinase, partial [Danio rerio]
+
+"
+"687"
+"PREDICTED: epidermal growth factor receptor [Zonotrichia albicollis]
+
+"
+"688"
+"PREDICTED: epidermal growth factor receptor [Taeniopygia guttata]
+
+"
+"689"
+"PREDICTED: epidermal growth factor receptor isoform X1 [Parus major]
+
+"
+"690"
+"PREDICTED: epidermal growth factor receptor [Pseudopodoces humilis]
+
+"
+"691"
+"PREDICTED: epidermal growth factor receptor [Serinus canaria]
+
+"
+"692"
+"v-erb-b2 erythroblastic leukemia viral oncogene homolog 3 (avian), isoform CRA_d [Homo sapiens]
+
+"
+"693"
+"PREDICTED: epidermal growth factor receptor isoform X2 [Parus major]
+
+"
+"694"
+"Chain A, Anti-EgfrHER3 FAB DL11 IN COMPLEX WITH DOMAINS I-Iii Of The Her3 Extracellular Region
+
+"
+"695"
+"PREDICTED: epidermal growth factor receptor [Corvus cornix cornix]
+
+"
+"696"
+"PREDICTED: epidermal growth factor receptor [Picoides pubescens]
+
+"
+"697"
+"Epidermal growth factor receptor, partial [Corvus brachyrhynchos]
+
+"
+"698"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like [Sinocyclocheilus grahami]
+
+"
+"699"
+"Epidermal growth factor receptor, partial [Chaetura pelagica]
+
+"
+"700"
+"epidermal growth factor receptor [Amazona aestiva]
+
+"
+"701"
+"PREDICTED: epidermal growth factor receptor isoform X1 [Anser cygnoides domesticus]
+
+"
+"702"
+"PREDICTED: epidermal growth factor receptor isoform X2 [Anser cygnoides domesticus]
+
+"
+"703"
+"Epidermal growth factor receptor, partial [Anas platyrhynchos]
+
+"
+"704"
+"PREDICTED: epidermal growth factor receptor isoform X1 [Coturnix japonica]
+
+"
+"705"
+"PREDICTED: receptor tyrosine-protein kinase erbB-3 isoform X3 [Cricetulus griseus]
+
+"
+"706"
+"PREDICTED: epidermal growth factor receptor isoform X2 [Coturnix japonica]
+
+"
+"707"
+"PREDICTED: epidermal growth factor receptor isoform X1 [Calidris pugnax]
+
+"
+"708"
+"PREDICTED: epidermal growth factor receptor [Cuculus canorus]
+
+"
+"709"
+"Epidermal growth factor receptor, partial [Merops nubicus]
+
+"
+"710"
+"PREDICTED: epidermal growth factor receptor isoform X1 [Lepidothrix coronata]
+
+"
+"711"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like [Sinocyclocheilus grahami]
+
+"
+"712"
+"PREDICTED: epidermal growth factor receptor isoform X2 [Lepidothrix coronata]
+
+"
+"713"
+"Epidermal growth factor receptor, partial [Fulmarus glacialis]
+
+"
+"714"
+"Epidermal growth factor receptor, partial [Cuculus canorus]
+
+"
+"715"
+"PREDICTED: epidermal growth factor receptor isoform X1 [Meleagris gallopavo]
+
+"
+"716"
+"Epidermal growth factor receptor, partial [Manacus vitellinus]
+
+"
+"717"
+"Epidermal growth factor receptor, partial [Phoenicopterus ruber ruber]
+
+"
+"718"
+"Epidermal growth factor receptor, partial [Caprimulgus carolinensis]
+
+"
+"719"
+"Epidermal growth factor receptor, partial [Apaloderma vittatum]
+
+"
+"720"
+"PREDICTED: epidermal growth factor receptor isoform X1 [Gallus gallus]
+
+"
+"721"
+"epidermal growth factor receptor precursor - chicken [Gallus gallus]
+
+"
+"722"
+"epidermal growth factor receptor precursor [Gallus gallus]
+
+"
+"723"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 [Danio rerio]
+
+"
+"724"
+"PREDICTED: epidermal growth factor receptor [Aptenodytes forsteri]
+
+"
+"725"
+"Epidermal growth factor receptor, partial [Tauraco erythrolophus]
+
+"
+"726"
+"Epidermal growth factor receptor, partial [Buceros rhinoceros silvestris]
+
+"
+"727"
+"PREDICTED: epidermal growth factor receptor [Nipponia nippon]
+
+"
+"728"
+"Epidermal growth factor receptor, partial [Pterocles gutturalis]
+
+"
+"729"
+"Epidermal growth factor receptor, partial [Nipponia nippon]
+
+"
+"730"
+"Epidermal growth factor receptor, partial [Phaethon lepturus]
+
+"
+"731"
+"Epidermal growth factor receptor, partial [Mesitornis unicolor]
+
+"
+"732"
+"Epidermal growth factor receptor, partial [Columba livia]
+
+"
+"733"
+"PREDICTED: epidermal growth factor receptor isoform X2 [Gallus gallus]
+
+"
+"734"
+"Epidermal growth factor receptor, partial [Charadrius vociferus]
+
+"
+"735"
+"Epidermal growth factor receptor, partial [Picoides pubescens]
+
+"
+"736"
+"PREDICTED: epidermal growth factor receptor, partial [Mesitornis unicolor]
+
+"
+"737"
+"PREDICTED: epidermal growth factor receptor [Charadrius vociferus]
+
+"
+"738"
+"Epidermal growth factor receptor, partial [Phalacrocorax carbo]
+
+"
+"739"
+"PREDICTED: epidermal growth factor receptor [Leptosomus discolor]
+
+"
+"740"
+"PREDICTED: epidermal growth factor receptor isoform X2 [Struthio camelus australis]
+
+"
+"741"
+"PREDICTED: epidermal growth factor receptor isoform X1 [Struthio camelus australis]
+
+"
+"742"
+"PREDICTED: LOW QUALITY PROTEIN: epidermal growth factor receptor [Opisthocomus hoazin]
+
+"
+"743"
+"Epidermal growth factor receptor, partial [Balearica regulorum gibbericeps]
+
+"
+"744"
+"Epidermal growth factor receptor, partial [Aptenodytes forsteri]
+
+"
+"745"
+"PREDICTED: epidermal growth factor receptor [Tinamus guttatus]
+
+"
+"746"
+"Epidermal growth factor receptor, partial [Leptosomus discolor]
+
+"
+"747"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4, partial [Otolemur garnettii]
+
+"
+"748"
+"Epidermal growth factor receptor, partial [Cariama cristata]
+
+"
+"749"
+"PREDICTED: epidermal growth factor receptor isoform X1 [Callorhinchus milii]
+
+"
+"750"
+"v-erb-a erythroblastic leukemia viral oncogene homolog 4 (avian), isoform CRA_a [Rattus norvegicus]
+
+"
+"751"
+"PREDICTED: epidermal growth factor receptor isoform X4 [Ornithorhynchus anatinus]
+
+"
+"752"
+"PREDICTED: epidermal growth factor receptor, partial [Cariama cristata]
+
+"
+"753"
+"PREDICTED: epidermal growth factor receptor isoform X3 [Ornithorhynchus anatinus]
+
+"
+"754"
+"PREDICTED: epidermal growth factor receptor isoform X2 [Chrysemys picta bellii]
+
+"
+"755"
+"PREDICTED: epidermal growth factor receptor isoform X1 [Chrysemys picta bellii]
+
+"
+"756"
+"PREDICTED: epidermal growth factor receptor [Sturnus vulgaris] >gi|959078859|ref|XP_014743131.1| PREDICTED: epidermal growth factor receptor [Sturnus vulgaris]
+
+"
+"757"
+"PREDICTED: epidermal growth factor receptor [Ficedula albicollis]
+
+"
+"758"
+"PREDICTED: LOW QUALITY PROTEIN: epidermal growth factor receptor [Apaloderma vittatum]
+
+"
+"759"
+"Epidermal growth factor receptor, partial [Struthio camelus australis]
+
+"
+"760"
+"PREDICTED: epidermal growth factor receptor isoform X2 [Lepisosteus oculatus]
+
+"
+"761"
+"PREDICTED: melanoma receptor tyrosine-protein kinase-like [Oryzias latipes]
+
+"
+"762"
+"PREDICTED: epidermal growth factor receptor [Melopsittacus undulatus]
+
+"
+"763"
+"PREDICTED: LOW QUALITY PROTEIN: epidermal growth factor receptor [Chaetura pelagica]
+
+"
+"764"
+"PREDICTED: epidermal growth factor receptor isoform X2 [Callorhinchus milii]
+
+"
+"765"
+"PREDICTED: epidermal growth factor receptor isoform X5 [Ornithorhynchus anatinus]
+
+"
+"766"
+"PREDICTED: epidermal growth factor receptor [Corvus brachyrhynchos]
+
+"
+"767"
+"PREDICTED: epidermal growth factor receptor isoform X2 [Ornithorhynchus anatinus]
+
+"
+"768"
+"PREDICTED: epidermal growth factor receptor isoform X1 [Ornithorhynchus anatinus]
+
+"
+"769"
+"PREDICTED: epidermal growth factor receptor-like [Oreochromis niloticus]
+
+"
+"770"
+"PREDICTED: epidermal growth factor receptor-like isoform X2 [Sinocyclocheilus rhinocerous]
+
+"
+"771"
+"PREDICTED: epidermal growth factor receptor [Geospiza fortis]
+
+"
+"772"
+"PREDICTED: epidermal growth factor receptor isoform X2 [Anas platyrhynchos]
+
+"
+"773"
+"PREDICTED: epidermal growth factor receptor isoform X1 [Anas platyrhynchos]
+
+"
+"774"
+"PREDICTED: epidermal growth factor receptor isoform X1 [Lepisosteus oculatus]
+
+"
+"775"
+"PREDICTED: epidermal growth factor receptor [Falco cherrug]
+
+"
+"776"
+"Epidermal growth factor receptor, partial [Pygoscelis adeliae]
+
+"
+"777"
+"PREDICTED: epidermal growth factor receptor-like isoform X1 [Sinocyclocheilus rhinocerous]
+
+"
+"778"
+"PREDICTED: epidermal growth factor receptor [Merops nubicus]
+
+"
+"779"
+"PREDICTED: epidermal growth factor receptor [Manacus vitellinus]
+
+"
+"780"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like [Physeter catodon]
+
+"
+"781"
+"PREDICTED: epidermal growth factor receptor isoform X2 [Calidris pugnax]
+
+"
+"782"
+"PREDICTED: epidermal growth factor receptor [Aquila chrysaetos canadensis]
+
+"
+"783"
+"PREDICTED: epidermal growth factor receptor [Haliaeetus leucocephalus]
+
+"
+"784"
+"PREDICTED: epidermal growth factor receptor [Pterocles gutturalis]
+
+"
+"785"
+"PREDICTED: epidermal growth factor receptor [Caprimulgus carolinensis]
+
+"
+"786"
+"PREDICTED: epidermal growth factor receptor [Buceros rhinoceros silvestris]
+
+"
+"787"
+"PREDICTED: epidermal growth factor receptor [Tauraco erythrolophus]
+
+"
+"788"
+"PREDICTED: epidermal growth factor receptor [Fulmarus glacialis]
+
+"
+"789"
+"PREDICTED: epidermal growth factor receptor isoform X2 [Meleagris gallopavo]
+
+"
+"790"
+"PREDICTED: epidermal growth factor receptor [Columba livia]
+
+"
+"791"
+"PREDICTED: epidermal growth factor receptor-like [Neolamprologus brichardi]
+
+"
+"792"
+"PREDICTED: epidermal growth factor receptor-like isoform X1 [Sinocyclocheilus anshuiensis] >gi|1025063074|ref|XP_016333601.1| PREDICTED: epidermal growth factor receptor-like isoform X2 [Sinocyclocheilus anshuiensis]
+
+"
+"793"
+"PREDICTED: LOW QUALITY PROTEIN: epidermal growth factor receptor [Balearica regulorum gibbericeps]
+
+"
+"794"
+"PREDICTED: epidermal growth factor receptor isoform X3 [Struthio camelus australis]
+
+"
+"795"
+"PREDICTED: epidermal growth factor receptor [Apteryx australis mantelli]
+
+"
+"796"
+"PREDICTED: epidermal growth factor receptor [Maylandia zebra]
+
+"
+"797"
+"PREDICTED: epidermal growth factor receptor [Jaculus jaculus]
+
+"
+"798"
+"PREDICTED: epidermal growth factor receptor-like isoform X4 [Sinocyclocheilus rhinocerous]
+
+"
+"799"
+"PREDICTED: epidermal growth factor receptor-like isoform X3 [Sinocyclocheilus anshuiensis]
+
+"
+"800"
+"PREDICTED: epidermal growth factor receptor-like isoform X3 [Sinocyclocheilus rhinocerous]
+
+"
+"801"
+"PREDICTED: epidermal growth factor receptor-like isoform X4 [Sinocyclocheilus anshuiensis]
+
+"
+"802"
+"PREDICTED: LOW QUALITY PROTEIN: epidermal growth factor receptor [Egretta garzetta]
+
+"
+"803"
+"PREDICTED: epidermal growth factor receptor-like isoform X2 [Sinocyclocheilus anshuiensis]
+
+"
+"804"
+"PREDICTED: epidermal growth factor receptor-like isoform X2 [Sinocyclocheilus rhinocerous]
+
+"
+"805"
+"PREDICTED: epidermal growth factor receptor-like isoform X1 [Sinocyclocheilus rhinocerous]
+
+"
+"806"
+"PREDICTED: epidermal growth factor receptor-like isoform X1 [Sinocyclocheilus anshuiensis]
+
+"
+"807"
+"PREDICTED: LOW QUALITY PROTEIN: receptor tyrosine-protein kinase erbB-3, partial [Calidris pugnax]
+
+"
+"808"
+"PREDICTED: epidermal growth factor receptor [Pygoscelis adeliae]
+
+"
+"809"
+"PREDICTED: epidermal growth factor receptor [Pundamilia nyererei]
+
+"
+"810"
+"PREDICTED: epidermal growth factor receptor isoform X2 [Peromyscus maniculatus bairdii]
+
+"
+"811"
+"PREDICTED: epidermal growth factor receptor isoform X1 [Peromyscus maniculatus bairdii]
+
+"
+"812"
+"PREDICTED: epidermal growth factor receptor [Mustela putorius furo]
+
+"
+"813"
+"Epidermal growth factor receptor, partial [Tinamus guttatus]
+
+"
+"814"
+"Receptor tyrosine-protein kinase erbB-4, partial [Nipponia nippon]
+
+"
+"815"
+"PREDICTED: epidermal growth factor receptor isoform X2 [Loxodonta africana]
+
+"
+"816"
+"PREDICTED: epidermal growth factor receptor isoform X1 [Loxodonta africana]
+
+"
+"817"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like [Sinocyclocheilus anshuiensis]
+
+"
+"818"
+"PREDICTED: epidermal growth factor receptor [Trichechus manatus latirostris]
+
+"
+"819"
+"PREDICTED: epidermal growth factor receptor [Anolis carolinensis]
+
+"
+"820"
+"PREDICTED: epidermal growth factor receptor [Microtus ochrogaster]
+
+"
+"821"
+"PREDICTED: epidermal growth factor receptor isoform X2 [Chelonia mydas]
+
+"
+"822"
+"PREDICTED: epidermal growth factor receptor isoform X2 [Mesocricetus auratus]
+
+"
+"823"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X9 [Homo sapiens]
+
+"
+"824"
+"PREDICTED: epidermal growth factor receptor isoform X1 [Mesocricetus auratus]
+
+"
+"825"
+"PREDICTED: epidermal growth factor receptor isoform X1 [Chelonia mydas]
+
+"
+"826"
+"PREDICTED: epidermal growth factor receptor isoform X2 [Cricetulus griseus]
+
+"
+"827"
+"PREDICTED: epidermal growth factor receptor [Alligator sinensis]
+
+"
+"828"
+"PREDICTED: epidermal growth factor receptor isoform X1 [Cricetulus griseus]
+
+"
+"829"
+"PREDICTED: epidermal growth factor receptor [Haplochromis burtoni]
+
+"
+"830"
+"epidermal growth factor receptor [Castor fiber]
+
+"
+"831"
+"epidermal growth factor receptor [Mus musculus] >gi|11055359|gb|AAG28045.1| epidermal growth factor receptor isoform 1 [Mus musculus]
+
+"
+"832"
+"EGF receptor [Mus musculus]
+
+"
+"833"
+"PREDICTED: epidermal growth factor receptor-like isoform X1 [Salmo salar]
+
+"
+"834"
+"PREDICTED: melanoma receptor tyrosine-protein kinase-like [Oreochromis niloticus]
+
+"
+"835"
+"epidermal growth factor receptor isoform 1 precursor [Mus musculus] >gi|1352359|sp|Q01279.1|EGFR_MOUSE RecName: Full=Epidermal growth factor receptor; Flags: Precursor >gi|488831|emb|CAA55587.1| epidermal growth factor receptor [Mus musculus] >gi|148708720|gb|EDL40667.1| epidermal growth factor receptor, isoform CRA_b [Mus musculus]
+
+"
+"836"
+"PREDICTED: epidermal growth factor receptor-like isoform X1 [Stegastes partitus]
+
+"
+"837"
+"PREDICTED: epidermal growth factor receptor [Heterocephalus glaber]
+
+"
+"838"
+"PREDICTED: epidermal growth factor receptor-like [Elephantulus edwardii]
+
+"
+"839"
+"PREDICTED: epidermal growth factor receptor [Phaethon lepturus]
+
+"
+"840"
+"PREDICTED: epidermal growth factor receptor isoform X2 [Monodelphis domestica]
+
+"
+"841"
+"PREDICTED: epidermal growth factor receptor isoform X1 [Monodelphis domestica]
+
+"
+"842"
+"epidermal growth factor receptor [Cricetulus griseus]
+
+"
+"843"
+"PREDICTED: epidermal growth factor receptor isoform X2 [Rattus norvegicus]
+
+"
+"844"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like [Gorilla gorilla gorilla]
+
+"
+"845"
+"epidermal growth factor receptor precursor [Rattus norvegicus] >gi|6478868|gb|AAF14008.1| epidermal growth factor receptor [Rattus norvegicus]
+
+"
+"846"
+"epidermal growth factor receptor [Rattus norvegicus]
+
+"
+"847"
+"epidermal growth factor receptor, isoform CRA_b [Rattus norvegicus]
+
+"
+"848"
+"PREDICTED: epidermal growth factor receptor isoform X4 [Propithecus coquereli]
+
+"
+"849"
+"PREDICTED: epidermal growth factor receptor isoform X3 [Propithecus coquereli]
+
+"
+"850"
+"epidermal growth factor receptor erbB1 [Notophthalmus viridescens]
+
+"
+"851"
+"PREDICTED: epidermal growth factor receptor [Felis catus]
+
+"
+"852"
+"Epidermal growth factor receptor [Danio rerio]
+
+"
+"853"
+"PREDICTED: epidermal growth factor receptor isoform X3 [Oryctolagus cuniculus]
+
+"
+"854"
+"PREDICTED: epidermal growth factor receptor-like isoform X1 [Salmo salar]
+
+"
+"855"
+"PREDICTED: melanoma receptor tyrosine-protein kinase-like [Neolamprologus brichardi]
+
+"
+"856"
+"PREDICTED: epidermal growth factor receptor-like isoform X2 [Stegastes partitus]
+
+"
+"857"
+"PREDICTED: epidermal growth factor receptor isoform X2 [Oryctolagus cuniculus]
+
+"
+"858"
+"PREDICTED: epidermal growth factor receptor isoform X1 [Oryctolagus cuniculus]
+
+"
+"859"
+"epidermal growth factor receptor [Rattus norvegicus]
+
+"
+"860"
+"PREDICTED: epidermal growth factor receptor, partial [Phalacrocorax carbo]
+
+"
+"861"
+"epidermal growth factor receptor precursor [Danio rerio] >gi|33469956|gb|AAN47184.1| epidermal growth factor receptor [Danio rerio]
+
+"
+"862"
+"hypothetical protein XELAEV_18044862mg [Xenopus laevis]
+
+"
+"863"
+"PREDICTED: epidermal growth factor receptor [Takifugu rubripes]
+
+"
+"864"
+"PREDICTED: epidermal growth factor receptor [Austrofundulus limnaeus]
+
+"
+"865"
+"PREDICTED: melanoma receptor tyrosine-protein kinase [Maylandia zebra]
+
+"
+"866"
+"PREDICTED: epidermal growth factor receptor isoform X1 [Odobenus rosmarus divergens]
+
+"
+"867"
+"PREDICTED: epidermal growth factor receptor isoform X1 [Rattus norvegicus]
+
+"
+"868"
+"PREDICTED: epidermal growth factor receptor isoform X2 [Odobenus rosmarus divergens]
+
+"
+"869"
+"PREDICTED: epidermal growth factor receptor [Orycteropus afer afer]
+
+"
+"870"
+"PREDICTED: epidermal growth factor receptor isoform X1 [Macaca mulatta] >gi|575773382|sp|P55245.2|EGFR_MACMU RecName: Full=Epidermal growth factor receptor; Flags: Precursor
+
+"
+"871"
+"PREDICTED: epidermal growth factor receptor isoform X1 [Pan troglodytes]
+
+"
+"872"
+"PREDICTED: epidermal growth factor receptor isoform X2 [Macaca nemestrina]
+
+"
+"873"
+"PREDICTED: epidermal growth factor receptor isoform X1 [Macaca nemestrina]
+
+"
+"874"
+"PREDICTED: epidermal growth factor receptor isoform X1 [Macaca fascicularis] >gi|635113025|ref|XP_007979471.1| PREDICTED: epidermal growth factor receptor [Chlorocebus sabaeus]
+
+"
+"875"
+"PREDICTED: epidermal growth factor receptor isoform X1 [Papio anubis] >gi|795268649|ref|XP_011920795.1| PREDICTED: epidermal growth factor receptor isoform X2 [Cercocebus atys]
+
+"
+"876"
+"Epidermal growth factor receptor, partial [Macaca mulatta] >gi|355747625|gb|EHH52122.1| Epidermal growth factor receptor, partial [Macaca fascicularis]
+
+"
+"877"
+"epidermal growth factor receptor [Danio rerio]
+
+"
+"878"
+"PREDICTED: epidermal growth factor receptor [Kryptolebias marmoratus]
+
+"
+"879"
+"epidermal growth factor receptor, partial [Sus scrofa]
+
+"
+"880"
+"epidermal growth factor receptor precursor [Sus scrofa] >gi|21913176|gb|AAM77472.1| epidermal growth factor receptor [Sus scrofa]
+
+"
+"881"
+"PREDICTED: epidermal growth factor receptor isoform X4 [Microcebus murinus]
+
+"
+"882"
+"PREDICTED: epidermal growth factor receptor isoform X1 [Cercocebus atys]
+
+"
+"883"
+"epidermal growth factor receptor, partial [synthetic construct]
+
+"
+"884"
+"PREDICTED: epidermal growth factor receptor [Cyprinodon variegatus]
+
+"
+"885"
+"epidermal growth factor receptor, partial [synthetic construct]
+
+"
+"886"
+"PREDICTED: epidermal growth factor receptor isoform X2 [Ceratotherium simum simum]
+
+"
+"887"
+"PREDICTED: melanoma receptor tyrosine-protein kinase-like isoform X1 [Esox lucius]
+
+"
+"888"
+"PREDICTED: epidermal growth factor receptor isoform X3 [Cercocebus atys]
+
+"
+"889"
+"epidermal growth factor receptor isoform a precursor [Homo sapiens] >gi|2811086|sp|P00533.2|EGFR_HUMAN RecName: Full=Epidermal growth factor receptor; AltName: Full=Proto-oncogene c-ErbB-1; AltName: Full=Receptor tyrosine-protein kinase erbB-1; Flags: Precursor >gi|11494380|gb|AAG35789.1|AF288738_4 p170 epidermal growth factor receptor [Homo sapiens] >gi|46241840|gb|AAS83109.1| epidermal growth factor receptor (erythroblastic leukemia viral (v-erb-b) oncogene homolog, avian) [Homo sapiens] >gi|61354737|gb|AAX41052.1| epidermal growth factor receptor [synthetic construct] >gi|61354745|gb|AAX41053.1| epidermal growth factor receptor [synthetic construct] >gi|119571347|gb|EAW50962.1| epidermal growth factor receptor (erythroblastic leukemia viral (v-erb-b) oncogene homolog, avian), isoform CRA_a [Homo sapiens]
+
+"
+"890"
+"PREDICTED: epidermal growth factor receptor isoform X1 [Condylura cristata]
+
+"
+"891"
+"PREDICTED: epidermal growth factor receptor isoform X1 [Ceratotherium simum simum]
+
+"
+"892"
+"epidermal growth factor receptor variant A [Homo sapiens]
+
+"
+"893"
+"cell proliferation-inducing protein 61 [Homo sapiens]
+
+"
+"894"
+"PREDICTED: epidermal growth factor receptor [Pygocentrus nattereri]
+
+"
+"895"
+"PREDICTED: epidermal growth factor receptor isoform X3 [Ceratotherium simum simum]
+
+"
+"896"
+"PREDICTED: epidermal growth factor receptor [Canis lupus familiaris]
+
+"
+"897"
+"PREDICTED: epidermal growth factor receptor isoform X2 [Condylura cristata]
+
+"
+"898"
+"Epidermal growth factor receptor [Larimichthys crocea]
+
+"
+"899"
+"PREDICTED: melanoma receptor tyrosine-protein kinase-like [Haplochromis burtoni]
+
+"
+"900"
+"PREDICTED: epidermal growth factor receptor [Chrysochloris asiatica]
+
+"
+"901"
+"PREDICTED: melanoma receptor tyrosine-protein kinase-like [Larimichthys crocea]
+
+"
+"902"
+"PREDICTED: epidermal growth factor receptor-like [Larimichthys crocea]
+
+"
+"903"
+"PREDICTED: epidermal growth factor receptor [Cavia porcellus]
+
+"
+"904"
+"epidermal growth factor receptor [Homo sapiens] >gi|223980|prf||1006266A epidermal growth factor receptor
+
+"
+"905"
+"PREDICTED: epidermal growth factor receptor-like isoform X2 [Salmo salar]
+
+"
+"906"
+"PREDICTED: epidermal growth factor receptor isoform X1 [Rhinopithecus roxellana] >gi|1059138041|ref|XP_017717628.1| PREDICTED: epidermal growth factor receptor isoform X1 [Rhinopithecus bieti]
+
+"
+"907"
+"PREDICTED: epidermal growth factor receptor [Equus caballus]
+
+"
+"908"
+"PREDICTED: LOW QUALITY PROTEIN: epidermal growth factor receptor [Vicugna pacos]
+
+"
+"909"
+"PREDICTED: epidermal growth factor receptor-like [Pygocentrus nattereri]
+
+"
+"910"
+"PREDICTED: melanoma receptor tyrosine-protein kinase-like [Cyprinodon variegatus]
+
+"
+"911"
+"cell growth inhibiting protein 40 [Homo sapiens]
+
+"
+"912"
+"PREDICTED: epidermal growth factor receptor [Dipodomys ordii]
+
+"
+"913"
+"PREDICTED: epidermal growth factor receptor [Alligator mississippiensis]
+
+"
+"914"
+"PREDICTED: melanoma receptor tyrosine-protein kinase-like [Cynoglossus semilaevis]
+
+"
+"915"
+"PREDICTED: epidermal growth factor receptor [Cebus capucinus imitator]
+
+"
+"916"
+"PREDICTED: epidermal growth factor receptor [Sorex araneus]
+
+"
+"917"
+"unnamed protein product [Homo sapiens]
+
+"
+"918"
+"PREDICTED: epidermal growth factor receptor [Esox lucius]
+
+"
+"919"
+"PREDICTED: epidermal growth factor receptor [Pantholops hodgsonii]
+
+"
+"920"
+"PREDICTED: LOW QUALITY PROTEIN: epidermal growth factor receptor [Marmota marmota marmota]
+
+"
+"921"
+"PREDICTED: epidermal growth factor receptor [Octodon degus]
+
+"
+"922"
+"PREDICTED: epidermal growth factor receptor isoform X1 [Nothobranchius furzeri]
+
+"
+"923"
+"PREDICTED: epidermal growth factor receptor [Capra hircus]
+
+"
+"924"
+"PREDICTED: epidermal growth factor receptor [Otolemur garnettii]
+
+"
+"925"
+"PREDICTED: epidermal growth factor receptor [Bison bison bison]
+
+"
+"926"
+"PREDICTED: epidermal growth factor receptor isoform X2 [Miniopterus natalensis]
+
+"
+"927"
+"PREDICTED: epidermal growth factor receptor isoform X1 [Miniopterus natalensis]
+
+"
+"928"
+"PREDICTED: melanoma receptor tyrosine-protein kinase-like isoform X1 [Salmo salar]
+
+"
+"929"
+"PREDICTED: LOW QUALITY PROTEIN: epidermal growth factor receptor, partial [Equus przewalskii]
+
+"
+"930"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4-like [Xiphophorus maculatus]
+
+"
+"931"
+"PREDICTED: epidermal growth factor receptor [Thamnophis sirtalis]
+
+"
+"932"
+"PREDICTED: LOW QUALITY PROTEIN: epidermal growth factor receptor [Callithrix jacchus]
+
+"
+"933"
+"PREDICTED: melanoma receptor tyrosine-protein kinase-like isoform X2 [Salmo salar]
+
+"
+"934"
+"PREDICTED: epidermal growth factor receptor-like isoform X2 [Salmo salar]
+
+"
+"935"
+"PREDICTED: LOW QUALITY PROTEIN: epidermal growth factor receptor-like [Camelus dromedarius]
+
+"
+"936"
+"PREDICTED: epidermal growth factor receptor [Camelus bactrianus]
+
+"
+"937"
+"PREDICTED: epidermal growth factor receptor [Bubalus bubalis]
+
+"
+"938"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X3 [Microcebus murinus]
+
+"
+"939"
+"PREDICTED: epidermal growth factor receptor [Ovis aries musimon] >gi|965988047|ref|XP_014957685.1| PREDICTED: epidermal growth factor receptor [Ovis aries]
+
+"
+"940"
+"PREDICTED: epidermal growth factor receptor [Bos taurus] >gi|529000858|ref|XP_002696936.2| PREDICTED: epidermal growth factor receptor [Bos taurus]
+
+"
+"941"
+"PREDICTED: epidermal growth factor receptor [Fukomys damarensis]
+
+"
+"942"
+"PREDICTED: epidermal growth factor receptor [Xenopus tropicalis]
+
+"
+"943"
+"PREDICTED: epidermal growth factor receptor [Tupaia chinensis]
+
+"
+"944"
+"hypothetical protein XENTR_v900162892mg, partial [Xenopus tropicalis]
+
+"
+"945"
+"PREDICTED: epidermal growth factor receptor [Erinaceus europaeus]
+
+"
+"946"
+"mCG122138 [Mus musculus]
+
+"
+"947"
+"PREDICTED: epidermal growth factor receptor [Nomascus leucogenys]
+
+"
+"948"
+"epidermal growth factor receptor [Bos taurus]
+
+"
+"949"
+"TPA: epidermal growth factor receptor [Bos taurus]
+
+"
+"950"
+"PREDICTED: epidermal growth factor receptor [Rousettus aegyptiacus]
+
+"
+"951"
+"PREDICTED: epidermal growth factor receptor [Ursus maritimus]
+
+"
+"952"
+"PREDICTED: epidermal growth factor receptor [Oryzias latipes]
+
+"
+"953"
+"PREDICTED: epidermal growth factor receptor [Pan paniscus]
+
+"
+"954"
+"PREDICTED: melanoma receptor tyrosine-protein kinase-like [Takifugu rubripes]
+
+"
+"955"
+"PREDICTED: epidermal growth factor receptor isoform X1 [Cynoglossus semilaevis]
+
+"
+"956"
+"PREDICTED: epidermal growth factor receptor isoform X2 [Macaca fascicularis]
+
+"
+"957"
+"PREDICTED: epidermal growth factor receptor [Gorilla gorilla gorilla]
+
+"
+"958"
+"PREDICTED: epidermal growth factor receptor isoform X2 [Macaca mulatta]
+
+"
+"959"
+"PREDICTED: epidermal growth factor receptor isoform X3 [Macaca nemestrina]
+
+"
+"960"
+"PREDICTED: epidermal growth factor receptor isoform X3 [Papio anubis] >gi|795268669|ref|XP_011920797.1| PREDICTED: epidermal growth factor receptor isoform X4 [Cercocebus atys] >gi|795268678|ref|XP_011920798.1| PREDICTED: epidermal growth factor receptor isoform X4 [Cercocebus atys] >gi|795268687|ref|XP_011920799.1| PREDICTED: epidermal growth factor receptor isoform X4 [Cercocebus atys] >gi|795296706|ref|XP_011822163.1| PREDICTED: epidermal growth factor receptor [Mandrillus leucophaeus] >gi|795296715|ref|XP_011822164.1| PREDICTED: epidermal growth factor receptor [Mandrillus leucophaeus]
+
+"
+"961"
+"PREDICTED: epidermal growth factor receptor, partial [Panthera tigris altaica]
+
+"
+"962"
+"PREDICTED: epidermal growth factor receptor isoform X5 [Microcebus murinus] >gi|829820547|ref|XP_012631048.1| PREDICTED: epidermal growth factor receptor isoform X5 [Microcebus murinus]
+
+"
+"963"
+"PREDICTED: epidermal growth factor receptor isoform X1 [Microcebus murinus]
+
+"
+"964"
+"PREDICTED: epidermal growth factor receptor isoform X3 [Microcebus murinus]
+
+"
+"965"
+"PREDICTED: epidermal growth factor receptor isoform X2 [Microcebus murinus]
+
+"
+"966"
+"epidermal growth factor receptor [Xiphophorus xiphidium]
+
+"
+"967"
+"PREDICTED: epidermal growth factor receptor [Colobus angolensis palliatus]
+
+"
+"968"
+"PREDICTED: epidermal growth factor receptor [Carlito syrichta]
+
+"
+"969"
+"unnamed protein product [Homo sapiens]
+
+"
+"970"
+"PREDICTED: epidermal growth factor receptor [Tursiops truncatus]
+
+"
+"971"
+"PREDICTED: epidermal growth factor receptor isoform X2 [Equus asinus]
+
+"
+"972"
+"PREDICTED: epidermal growth factor receptor isoform X2 [Rhinopithecus roxellana] >gi|1059138043|ref|XP_017717629.1| PREDICTED: epidermal growth factor receptor isoform X2 [Rhinopithecus bieti]
+
+"
+"973"
+"PREDICTED: epidermal growth factor receptor isoform X1 [Equus asinus]
+
+"
+"974"
+"PREDICTED: epidermal growth factor receptor [Xiphophorus maculatus]
+
+"
+"975"
+"TPA: v-erb-a erythroblastic leukemia viral oncogene homolog 4 [Bos taurus]
+
+"
+"976"
+"PREDICTED: epidermal growth factor receptor [Clupea harengus]
+
+"
+"977"
+"PREDICTED: epidermal growth factor receptor [Chinchilla lanigera]
+
+"
+"978"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X2 [Microcebus murinus]
+
+"
+"979"
+"PREDICTED: epidermal growth factor receptor isoform X1 [Lipotes vexillifer]
+
+"
+"980"
+"RecName: Full=Melanoma receptor tyrosine-protein kinase; Flags: Precursor >gi|9588444|emb|CAA34770.2| receptor tyrosine kiase preprotein [Xiphophorus sp.]
+
+"
+"981"
+"PREDICTED: epidermal growth factor receptor [Orcinus orca]
+
+"
+"982"
+"PREDICTED: epidermal growth factor receptor [Poecilia mexicana]
+
+"
+"983"
+"PREDICTED: epidermal growth factor receptor [Poecilia formosa]
+
+"
+"984"
+"PREDICTED: epidermal growth factor receptor isoform X2 [Python bivittatus]
+
+"
+"985"
+"PREDICTED: epidermal growth factor receptor isoform X1 [Python bivittatus] >gi|1004665031|ref|XP_015742744.1| PREDICTED: epidermal growth factor receptor isoform X1 [Python bivittatus]
+
+"
+"986"
+"receptor tyrosine kinase proto-oncogene [Xiphophorus xiphidium]
+
+"
+"987"
+"PREDICTED: epidermal growth factor receptor [Poecilia reticulata]
+
+"
+"988"
+"receptor Tyr kinase
+
+"
+"989"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 [Odobenus rosmarus divergens]
+
+"
+"990"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 [Bos taurus] >gi|982977641|ref|XP_015317847.1| PREDICTED: receptor tyrosine-protein kinase erbB-4 [Bos taurus]
+
+"
+"991"
+"PREDICTED: LOW QUALITY PROTEIN: epidermal growth factor receptor [Acinonyx jubatus]
+
+"
+"992"
+"PREDICTED: melanoma receptor tyrosine-protein kinase-like [Fundulus heteroclitus]
+
+"
+"993"
+"PREDICTED: epidermal growth factor receptor [Saimiri boliviensis boliviensis]
+
+"
+"994"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X4 [Mus musculus]
+
+"
+"995"
+"PREDICTED: epidermal growth factor receptor [Echinops telfairi]
+
+"
+"996"
+"epidermal growth factor receptor [Bos grunniens]
+
+"
+"997"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X1 [Microcebus murinus]
+
+"
+"998"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X1 [Latimeria chalumnae]
+
+"
+"999"
+"PREDICTED: receptor tyrosine-protein kinase erbB-4 isoform X3 [Latimeria chalumnae]
+
+"
+"1000"
+"hypothetical protein XELAEV_18031176mg [Xenopus laevis]
+
+"
