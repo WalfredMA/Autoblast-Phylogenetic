@@ -1,0 +1,24 @@
+
+***********program**********
+blastp
+
+**********version**********
+BLASTP 2.5.0+
+
+**********reference**********
+Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+**********database**********
+nr
+
+**********queryID**********
+NP_034283.1
+
+**********querydef**********
+receptor tyrosine-protein kinase erbB-3 precursor [Mus musculus]
+
+**********querylen**********
+1339
+
+**********number of alignment**********
+1998
