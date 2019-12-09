@@ -1,4 +1,8 @@
 # Autoblast-Phylogenetic
+
+//  Created by Walfred MA in 2016, wangfei.ma@ucsf.edu.
+//  Copyright © 2016 UCSF-Kwoklab. All rights reserved.
+
 generate Phylogenetic tree by cloud blasting
 
 Basically what this program does:
